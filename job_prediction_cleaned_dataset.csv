@@ -1,0 +1,1001 @@
+S. No.,Degree,Major,Skill1,Skill2,JobRole,Certification,ExperienceYears
+1,Msc,Data Science,C++,Deep Learning,AI Engineer,TensorFlow Certified,1.0
+2,msc,Artificial Intelligence,HTML,Unknown,Full Stack Developer,TensorFlow Certified,3.0
+3,M.Sc,Comp Science,HTML,react,AI Engineer,TensorFlow Certified,4.0
+4,B.Sc,Data Science,Python,Machine Learning,Software Engineer,Spring Certified,4.0
+5,msc,Comp Science,SQL,Unknown,AI Engineer,Spring Certified,0.0
+6,B.Tech,Data Science,Java,Unknown,Software Engineer,Spring Certified,9.0
+7,msc,Information Technology,SQL,Unknown,Full Stack Developer,TensorFlow Certified,9.0
+8,Unknown,Artificial Intelligence,HTML,react,Backend Developer,Spring Certified,7.0
+9,B.Sc,Information Technology,Java,React,Data Scientist,Unknown,6.0
+10,M.Tech,Unknown,JavaScript,react,Frontend Developer,Microsoft Azure Certified,1.0
+11,B.Tech,Information Technology,Unknown,Flask,Unknown,Microsoft Azure Certified,9.0
+12,M.Sc,Computer Science,Python,React,AI Engineer,Microsoft Azure Certified,7.0
+13,M.Sc,Artificial Intelligence,python,Unknown,Full Stack Developer,Google Cloud Certified,1.0
+14,Unknown,Comp Science,HTML,Unknown,AI Engineer,AWS Certified,5.0
+15,M.Sc,Computer Science,JavaScript,Machine Learning,Unknown,Unknown,7.0
+16,Bsc,Computer Science,Java,Deep Learning,Frontend Developer,Certified Web Developer,8.0
+17,M.Tech,Software Engineering,python,React,Data Scientist,Spring Certified,7.0
+18,B.Tech,Artificial Intelligence,Java,Flask,Full Stack Developer,Certified Web Developer,21.247069691568345
+19,Unknown,Information Technology,C++,Machine Learning,Unknown,AWS Certified,1.0
+20,Msc,Comp Science,Python,Machine Learning,Unknown,AWS Certified,6.0
+21,Bsc,Data Science,JavaScript,Django,Backend Developer,Spring Certified,7.0
+22,msc,Software Engineering,java,Django,Data Scientist,Microsoft Azure Certified,5.0
+23,Unknown,Information Technology,C++,react,Backend Developer,TensorFlow Certified,4.0
+24,msc,Unknown,java,Unknown,Unknown,Spring Certified,7.0
+25,Bsc,Data Science,JavaScript,React,Full Stack Developer,AWS Certified,8.0
+26,Bsc,Software Engineering,Python,Node.js,Software Engineer,Microsoft Azure Certified,4.0
+27,Msc,Unknown,JavaScript,Node.js,Data Scientist,Microsoft Azure Certified,1.0
+28,msc,Data scienc,HTML,Flask,Data Scientist,Unknown,3.0
+29,Bsc,Computer Science,Python,Unknown,Full Stack Developer,Certified Web Developer,3.0
+30,msc,Artificial Intelligence,Python,Node.js,Full Stack Developer,TensorFlow Certified,3.0
+31,Bsc,Unknown,java,Unknown,Frontend Developer,AWS Certified,3.0
+32,Bsc,Software Engineering,JavaScript,Unknown,Unknown,Google Cloud Certified,6.0
+33,M.Tech,Information Technology,JavaScript,Flask,Data Scientist,Unknown,7.0
+34,M.Tech,Information Technology,C++,react,AI Engineer,AWS Certified,4.0
+35,M.Sc,Information Technology,SQL,Machine Learning,Backend Developer,Microsoft Azure Certified,0.0
+36,bsc,Information Technology,Python,Node.js,Data Scientist,Microsoft Azure Certified,4.0
+37,bsc,Comp Science,Python,Flask,AI Engineer,Spring Certified,6.0
+38,B.Sc,Computer Science,Java,Machine Learning,Software Engineer,Spring Certified,0.0
+39,Msc,Comp Science,Python,Machine Learning,Frontend Developer,TensorFlow Certified,5.0
+40,Bsc,Information Technology,python,react,Software Engineer,Microsoft Azure Certified,0.0
+41,Msc,Comp Science,Unknown,Deep Learning,Data Scientist,Certified Web Developer,2.0
+42,msc,Information Technology,Python,React,Unknown,Spring Certified,1.0
+43,bsc,Data scienc,HTML,flask,Full Stack Developer,Unknown,0.0
+44,M.Sc,Computer Science,python,Node.js,Software Engineer,Certified Web Developer,1.0
+45,msc,Computer Science,C++,Node.js,AI Engineer,Microsoft Azure Certified,6.0
+46,B.Tech,Data Science,Java,Flask,AI Engineer,Google Cloud Certified,6.0
+47,B.Tech,Data scienc,Python,Deep Learning,Software Engineer,Google Cloud Certified,3.0
+48,bsc,Artificial Intelligence,HTML,React,Full Stack Developer,TensorFlow Certified,4.0
+49,M.Sc,Software Engineering,Unknown,Machine Learning,Backend Developer,TensorFlow Certified,4.0
+50,M.Tech,Data Science,SQL,Django,Data Scientist,Google Cloud Certified,2.0
+51,msc,Software Engineering,SQL,Flask,Full Stack Developer,AWS Certified,11.0
+52,M.Sc,Computer Science,Python,Deep Learning,Backend Developer,Google Cloud Certified,0.0
+53,B.Tech,Artificial Intelligence,Python,Machine Learning,Frontend Developer,TensorFlow Certified,5.0
+54,bsc,Artificial Intelligence,java,Flask,AI Engineer,Certified Web Developer,4.0
+55,Unknown,Data Science,Python,Machine Learning,Frontend Developer,TensorFlow Certified,0.0
+56,Unknown,Data Science,SQL,Node.js,Software Engineer,Microsoft Azure Certified,8.0
+57,Unknown,Data Science,SQL,React,Frontend Developer,Google Cloud Certified,8.0
+58,Msc,Unknown,HTML,Machine Learning,Software Engineer,AWS Certified,2.0
+59,Msc,Data scienc,JavaScript,Unknown,Data Scientist,Unknown,4.0
+60,M.Tech,Data Science,JavaScript,flask,Software Engineer,Unknown,5.0
+61,Bsc,Data Science,HTML,React,Frontend Developer,TensorFlow Certified,4.0
+62,bsc,Computer Science,SQL,Node.js,Frontend Developer,Certified Web Developer,5.0
+63,B.Tech,Unknown,C++,Django,Data Scientist,Microsoft Azure Certified,5.0
+64,msc,Data Science,Unknown,react,Software Engineer,Google Cloud Certified,2.0
+65,Unknown,Software Engineering,python,flask,Backend Developer,Unknown,3.0
+66,B.Tech,Software Engineering,Java,Unknown,Backend Developer,Certified Web Developer,2.0
+67,bsc,Data scienc,Unknown,Node.js,Unknown,Certified Web Developer,3.0
+68,Msc,Information Technology,JavaScript,Deep Learning,Software Engineer,Certified Web Developer,4.0
+69,bsc,Computer Science,HTML,React,Unknown,Certified Web Developer,3.0
+70,Bsc,Software Engineering,C++,react,AI Engineer,Unknown,1.0
+71,B.Sc,Unknown,python,react,Frontend Developer,Unknown,0.0
+72,Unknown,Artificial Intelligence,Unknown,Unknown,Software Engineer,AWS Certified,5.0
+73,Msc,Software Engineering,python,Machine Learning,Software Engineer,Google Cloud Certified,0.0
+74,Bsc,Software Engineering,Unknown,Node.js,Frontend Developer,Spring Certified,9.0
+75,B.Tech,Computer Science,java,Deep Learning,Full Stack Developer,AWS Certified,6.0
+76,Msc,Artificial Intelligence,python,React,Frontend Developer,Certified Web Developer,2.0
+77,Bsc,Comp Science,java,flask,Data Scientist,Microsoft Azure Certified,4.0
+78,Msc,Artificial Intelligence,Python,Deep Learning,Full Stack Developer,AWS Certified,1.0
+79,M.Sc,Data Science,C++,Unknown,Full Stack Developer,Google Cloud Certified,3.0
+80,Msc,Information Technology,C++,Deep Learning,Software Engineer,Spring Certified,3.0
+81,Bsc,Artificial Intelligence,C++,flask,Frontend Developer,Unknown,7.0
+82,M.Sc,Information Technology,Python,flask,Full Stack Developer,AWS Certified,5.0
+83,Bsc,Software Engineering,SQL,Unknown,AI Engineer,Google Cloud Certified,3.0
+84,M.Sc,Data scienc,Unknown,Node.js,Software Engineer,TensorFlow Certified,6.0
+85,Msc,Software Engineering,python,Machine Learning,Software Engineer,Microsoft Azure Certified,4.0
+86,bsc,Data scienc,Java,react,Backend Developer,TensorFlow Certified,2.0
+87,bsc,Artificial Intelligence,Unknown,Unknown,Data Scientist,Microsoft Azure Certified,6.0
+88,msc,Comp Science,Python,Deep Learning,Software Engineer,TensorFlow Certified,0.0
+89,B.Sc,Computer Science,JavaScript,Node.js,Software Engineer,Spring Certified,5.0
+90,B.Tech,Computer Science,python,react,Data Scientist,Spring Certified,12.0
+91,Msc,Artificial Intelligence,java,Machine Learning,Data Scientist,AWS Certified,7.0
+92,M.Tech,Unknown,JavaScript,Node.js,Data Scientist,Certified Web Developer,2.0
+93,bsc,Data scienc,Unknown,react,Unknown,Spring Certified,9.0
+94,Bsc,Software Engineering,C++,react,Frontend Developer,Spring Certified,1.0
+95,Bsc,Data Science,Unknown,Node.js,Full Stack Developer,Certified Web Developer,4.0
+96,msc,Artificial Intelligence,java,Deep Learning,Frontend Developer,Unknown,6.0
+97,Unknown,Comp Science,JavaScript,flask,Software Engineer,Google Cloud Certified,5.0
+98,B.Tech,Software Engineering,JavaScript,flask,Full Stack Developer,Unknown,0.0
+99,M.Sc,Data scienc,python,Deep Learning,Unknown,Unknown,2.0
+100,msc,Data scienc,Unknown,React,Data Scientist,Google Cloud Certified,5.0
+101,B.Sc,Artificial Intelligence,python,Machine Learning,AI Engineer,AWS Certified,9.0
+102,Unknown,Artificial Intelligence,Python,Flask,Data Scientist,Microsoft Azure Certified,3.0
+103,M.Sc,Data scienc,HTML,React,Frontend Developer,Unknown,11.0
+104,B.Sc,Comp Science,python,Django,Software Engineer,TensorFlow Certified,6.0
+105,M.Tech,Unknown,SQL,Unknown,Software Engineer,Unknown,6.0
+106,B.Sc,Software Engineering,Python,Machine Learning,Frontend Developer,TensorFlow Certified,7.0
+107,msc,Software Engineering,SQL,Flask,AI Engineer,Certified Web Developer,5.0
+108,B.Sc,Comp Science,C++,Flask,Full Stack Developer,TensorFlow Certified,6.0
+109,B.Sc,Data Science,Java,Unknown,Software Engineer,Google Cloud Certified,7.0
+110,Unknown,Unknown,java,Machine Learning,AI Engineer,Spring Certified,1.0
+111,Unknown,Computer Science,Unknown,Machine Learning,Data Scientist,Spring Certified,1.0
+112,bsc,Software Engineering,python,React,AI Engineer,TensorFlow Certified,2.0
+113,B.Tech,Data Science,HTML,Flask,Frontend Developer,TensorFlow Certified,2.0
+114,Bsc,Computer Science,C++,Deep Learning,Frontend Developer,Certified Web Developer,7.0
+115,Unknown,Comp Science,HTML,flask,Backend Developer,TensorFlow Certified,3.0
+116,bsc,Computer Science,Java,Unknown,Data Scientist,Unknown,0.0
+117,M.Tech,Artificial Intelligence,SQL,flask,Software Engineer,Microsoft Azure Certified,9.0
+118,Unknown,Data scienc,java,Machine Learning,Full Stack Developer,AWS Certified,8.0
+119,bsc,Comp Science,JavaScript,flask,Software Engineer,Google Cloud Certified,7.0
+120,msc,Data Science,java,flask,AI Engineer,Certified Web Developer,4.0
+121,Msc,Computer Science,JavaScript,Machine Learning,Frontend Developer,Microsoft Azure Certified,2.0
+122,Bsc,Unknown,java,React,Full Stack Developer,Certified Web Developer,3.0
+123,Unknown,Software Engineering,C++,react,AI Engineer,AWS Certified,2.0
+124,Bsc,Data scienc,Java,Node.js,AI Engineer,Certified Web Developer,1.0
+125,M.Tech,Data Science,Python,Unknown,AI Engineer,Microsoft Azure Certified,3.0
+126,Unknown,Data scienc,Java,flask,Frontend Developer,Certified Web Developer,3.0
+127,msc,Artificial Intelligence,java,flask,Backend Developer,TensorFlow Certified,8.0
+128,Unknown,Information Technology,python,Django,Software Engineer,Unknown,6.0
+129,Bsc,Artificial Intelligence,Java,React,Frontend Developer,Google Cloud Certified,4.0
+130,bsc,Comp Science,HTML,Machine Learning,Unknown,Microsoft Azure Certified,10.0
+131,Unknown,Comp Science,C++,Django,Full Stack Developer,Google Cloud Certified,2.0
+132,Unknown,Data Science,JavaScript,Node.js,Unknown,Google Cloud Certified,7.0
+133,msc,Information Technology,Unknown,Deep Learning,Backend Developer,Spring Certified,4.0
+134,B.Sc,Artificial Intelligence,JavaScript,Django,Full Stack Developer,Microsoft Azure Certified,2.0
+135,Bsc,Software Engineering,Python,Flask,Data Scientist,Microsoft Azure Certified,7.0
+136,Unknown,Computer Science,HTML,flask,Backend Developer,Unknown,6.0
+137,B.Sc,Comp Science,SQL,flask,Unknown,Spring Certified,1.0
+138,B.Sc,Comp Science,C++,Django,AI Engineer,Unknown,4.0
+139,Msc,Data scienc,python,react,Unknown,Google Cloud Certified,6.0
+140,Msc,Comp Science,java,Django,AI Engineer,Unknown,4.0
+141,B.Tech,Software Engineering,Python,React,AI Engineer,AWS Certified,1.0
+142,M.Tech,Data Science,C++,Unknown,AI Engineer,Microsoft Azure Certified,4.0
+143,B.Tech,Comp Science,Java,Unknown,Frontend Developer,Unknown,7.0
+144,Unknown,Unknown,SQL,Django,Full Stack Developer,Spring Certified,8.0
+145,Bsc,Information Technology,java,React,Data Scientist,AWS Certified,2.0
+146,Unknown,Data scienc,java,react,Data Scientist,AWS Certified,5.0
+147,B.Tech,Data Science,JavaScript,Machine Learning,Frontend Developer,TensorFlow Certified,1.0
+148,M.Tech,Data Science,Java,Django,Backend Developer,Google Cloud Certified,5.0
+149,Bsc,Computer Science,Java,Machine Learning,Software Engineer,TensorFlow Certified,1.0
+150,Bsc,Software Engineering,python,React,Software Engineer,Microsoft Azure Certified,2.0
+151,M.Tech,Data Science,Unknown,Flask,Data Scientist,TensorFlow Certified,9.0
+152,bsc,Data Science,HTML,flask,Backend Developer,Certified Web Developer,2.0
+153,M.Sc,Data scienc,java,Flask,Backend Developer,Google Cloud Certified,13.0
+154,B.Tech,Software Engineering,C++,react,Unknown,Certified Web Developer,4.0
+155,M.Tech,Computer Science,python,Node.js,Software Engineer,Spring Certified,5.0
+156,msc,Comp Science,SQL,Deep Learning,Data Scientist,Google Cloud Certified,8.0
+157,M.Sc,Unknown,Java,react,Software Engineer,Google Cloud Certified,7.0
+158,M.Sc,Data scienc,HTML,Flask,Data Scientist,Spring Certified,6.0
+159,B.Tech,Software Engineering,java,Unknown,Unknown,TensorFlow Certified,4.0
+160,B.Tech,Data Science,Java,Machine Learning,Data Scientist,AWS Certified,6.0
+161,M.Sc,Artificial Intelligence,python,Node.js,Unknown,TensorFlow Certified,0.0
+162,Unknown,Comp Science,HTML,Machine Learning,AI Engineer,TensorFlow Certified,3.0
+163,bsc,Software Engineering,Java,Unknown,Data Scientist,Microsoft Azure Certified,3.0
+164,M.Tech,Computer Science,Python,Unknown,Unknown,Certified Web Developer,5.0
+165,Unknown,Information Technology,Unknown,flask,Frontend Developer,TensorFlow Certified,0.0
+166,B.Tech,Data Science,Java,flask,Software Engineer,Unknown,1.0
+167,B.Tech,Artificial Intelligence,Unknown,react,AI Engineer,Google Cloud Certified,4.0
+168,Msc,Unknown,SQL,flask,AI Engineer,TensorFlow Certified,6.0
+169,bsc,Data Science,python,react,Full Stack Developer,TensorFlow Certified,3.0
+170,Unknown,Computer Science,Python,Unknown,Backend Developer,Microsoft Azure Certified,8.0
+171,B.Tech,Information Technology,java,Django,Unknown,Spring Certified,6.0
+172,B.Tech,Software Engineering,JavaScript,flask,Frontend Developer,Google Cloud Certified,9.0
+173,bsc,Data scienc,python,react,AI Engineer,Microsoft Azure Certified,8.0
+174,Msc,Artificial Intelligence,Python,React,Unknown,Microsoft Azure Certified,3.0
+175,Unknown,Data Science,python,flask,Frontend Developer,Microsoft Azure Certified,3.0
+176,M.Tech,Data scienc,python,Flask,Data Scientist,AWS Certified,3.0
+177,B.Sc,Software Engineering,python,react,Data Scientist,TensorFlow Certified,7.0
+178,M.Tech,Computer Science,python,Deep Learning,Backend Developer,Google Cloud Certified,4.0
+179,Msc,Unknown,Python,react,Unknown,Certified Web Developer,9.0
+180,B.Tech,Data scienc,JavaScript,Django,Unknown,Google Cloud Certified,5.0
+181,Bsc,Artificial Intelligence,Unknown,react,Backend Developer,Microsoft Azure Certified,6.0
+182,B.Sc,Data scienc,JavaScript,React,Frontend Developer,Certified Web Developer,8.0
+183,B.Tech,Information Technology,python,Unknown,AI Engineer,Microsoft Azure Certified,7.0
+184,Msc,Data Science,Python,react,Software Engineer,Microsoft Azure Certified,6.0
+185,Bsc,Data scienc,HTML,flask,Backend Developer,Microsoft Azure Certified,3.0
+186,B.Tech,Software Engineering,Python,Django,Backend Developer,Certified Web Developer,7.0
+187,B.Sc,Data scienc,Unknown,Deep Learning,Software Engineer,Unknown,3.0
+188,M.Sc,Artificial Intelligence,Python,Deep Learning,AI Engineer,Spring Certified,6.0
+189,M.Sc,Information Technology,Unknown,Deep Learning,Data Scientist,Certified Web Developer,0.0
+190,Msc,Comp Science,HTML,flask,Software Engineer,Google Cloud Certified,8.0
+191,Bsc,Comp Science,python,react,Data Scientist,Unknown,5.0
+192,M.Tech,Artificial Intelligence,python,React,Full Stack Developer,Microsoft Azure Certified,0.0
+193,Msc,Data Science,python,Django,Data Scientist,Unknown,3.0
+194,Msc,Information Technology,java,Machine Learning,AI Engineer,Google Cloud Certified,8.0
+195,Unknown,Information Technology,JavaScript,Unknown,Frontend Developer,AWS Certified,4.0
+196,bsc,Data scienc,python,flask,Backend Developer,Spring Certified,6.0
+197,B.Tech,Software Engineering,SQL,Node.js,Frontend Developer,Spring Certified,5.0
+198,bsc,Information Technology,Python,Unknown,Unknown,Spring Certified,9.0
+199,M.Sc,Software Engineering,SQL,react,Unknown,Spring Certified,4.0
+200,B.Tech,Information Technology,SQL,react,AI Engineer,Spring Certified,5.0
+201,Msc,Data scienc,Unknown,Node.js,Software Engineer,TensorFlow Certified,1.0
+202,Msc,Data scienc,java,Unknown,Software Engineer,Spring Certified,2.0
+203,msc,Computer Science,java,Node.js,Software Engineer,AWS Certified,2.0
+204,M.Sc,Artificial Intelligence,python,Django,AI Engineer,TensorFlow Certified,3.0
+205,msc,Software Engineering,Java,Flask,Frontend Developer,Certified Web Developer,10.0
+206,Msc,Computer Science,Python,Django,Unknown,AWS Certified,7.0
+207,Msc,Unknown,C++,Deep Learning,Full Stack Developer,Unknown,7.0
+208,M.Tech,Unknown,C++,flask,Frontend Developer,Unknown,6.0
+209,B.Tech,Software Engineering,Unknown,React,Full Stack Developer,AWS Certified,10.0
+210,Unknown,Information Technology,python,React,Unknown,Microsoft Azure Certified,2.0
+211,M.Tech,Artificial Intelligence,JavaScript,Flask,Data Scientist,Unknown,3.0
+212,Bsc,Unknown,JavaScript,flask,Unknown,TensorFlow Certified,0.0
+213,msc,Data scienc,JavaScript,Django,Backend Developer,Certified Web Developer,3.0
+214,M.Sc,Unknown,Python,Deep Learning,Unknown,Google Cloud Certified,10.0
+215,Unknown,Unknown,Unknown,Unknown,Software Engineer,Microsoft Azure Certified,0.0
+216,B.Sc,Artificial Intelligence,SQL,Flask,Data Scientist,Spring Certified,11.0
+217,Bsc,Comp Science,Python,Deep Learning,Data Scientist,Spring Certified,7.0
+218,bsc,Comp Science,Java,Machine Learning,Frontend Developer,Spring Certified,5.0
+219,M.Tech,Information Technology,HTML,React,Software Engineer,TensorFlow Certified,0.0
+220,Bsc,Computer Science,SQL,Deep Learning,Full Stack Developer,Google Cloud Certified,2.0
+221,msc,Artificial Intelligence,Java,Django,Software Engineer,Google Cloud Certified,1.0
+222,M.Sc,Artificial Intelligence,HTML,Django,Software Engineer,AWS Certified,4.0
+223,bsc,Computer Science,SQL,Django,Data Scientist,Spring Certified,6.0
+224,M.Tech,Information Technology,Java,Node.js,Frontend Developer,Certified Web Developer,8.0
+225,B.Sc,Data scienc,python,react,Unknown,Google Cloud Certified,1.0
+226,B.Sc,Unknown,JavaScript,Flask,Backend Developer,Certified Web Developer,1.0
+227,bsc,Software Engineering,Python,flask,Backend Developer,Spring Certified,5.0
+228,M.Sc,Unknown,JavaScript,Machine Learning,AI Engineer,Unknown,13.0
+229,B.Tech,Software Engineering,SQL,Unknown,Software Engineer,TensorFlow Certified,5.0
+230,msc,Data Science,java,flask,Unknown,Unknown,1.0
+231,Bsc,Software Engineering,Unknown,react,Full Stack Developer,Google Cloud Certified,3.0
+232,bsc,Software Engineering,java,flask,AI Engineer,Certified Web Developer,3.0
+233,M.Tech,Unknown,Java,react,Data Scientist,Spring Certified,6.0
+234,Msc,Artificial Intelligence,Java,Deep Learning,Frontend Developer,Spring Certified,8.0
+235,msc,Software Engineering,java,Node.js,Backend Developer,Microsoft Azure Certified,8.0
+236,B.Tech,Data scienc,SQL,Unknown,Software Engineer,Unknown,0.0
+237,msc,Computer Science,HTML,Unknown,AI Engineer,Google Cloud Certified,2.0
+238,Bsc,Data Science,JavaScript,Machine Learning,Backend Developer,Certified Web Developer,1.0
+239,Msc,Information Technology,HTML,Machine Learning,Frontend Developer,Certified Web Developer,4.0
+240,B.Tech,Data scienc,Python,react,Data Scientist,Spring Certified,3.0
+241,M.Tech,Comp Science,HTML,Deep Learning,Backend Developer,TensorFlow Certified,5.0
+242,M.Sc,Software Engineering,Python,React,Full Stack Developer,Unknown,2.0
+243,Msc,Software Engineering,HTML,Unknown,Unknown,AWS Certified,2.0
+244,Unknown,Software Engineering,Java,React,Data Scientist,Spring Certified,1.0
+245,M.Tech,Software Engineering,Java,Flask,AI Engineer,Unknown,2.0
+246,B.Sc,Comp Science,JavaScript,flask,Unknown,Unknown,7.0
+247,M.Tech,Unknown,JavaScript,Machine Learning,Backend Developer,TensorFlow Certified,4.0
+248,B.Sc,Software Engineering,python,Django,Full Stack Developer,Microsoft Azure Certified,7.0
+249,msc,Data scienc,HTML,flask,AI Engineer,TensorFlow Certified,4.0
+250,bsc,Comp Science,HTML,react,Software Engineer,Microsoft Azure Certified,0.0
+251,Unknown,Artificial Intelligence,HTML,flask,Backend Developer,Spring Certified,0.0
+252,B.Sc,Software Engineering,HTML,flask,Frontend Developer,AWS Certified,10.0
+253,B.Tech,Data scienc,SQL,Flask,Software Engineer,Microsoft Azure Certified,8.0
+254,B.Tech,Software Engineering,C++,Unknown,AI Engineer,TensorFlow Certified,7.0
+255,msc,Artificial Intelligence,Unknown,react,Unknown,Google Cloud Certified,2.0
+256,M.Tech,Comp Science,java,react,Full Stack Developer,Microsoft Azure Certified,1.0
+257,Unknown,Computer Science,JavaScript,Node.js,Frontend Developer,TensorFlow Certified,7.0
+258,M.Sc,Comp Science,Python,Deep Learning,Data Scientist,Microsoft Azure Certified,3.0
+259,M.Sc,Information Technology,C++,Django,AI Engineer,TensorFlow Certified,6.0
+260,msc,Unknown,Unknown,Deep Learning,AI Engineer,TensorFlow Certified,11.0
+261,B.Sc,Computer Science,Python,react,Frontend Developer,Certified Web Developer,4.0
+262,B.Tech,Artificial Intelligence,HTML,React,AI Engineer,TensorFlow Certified,4.0
+263,Unknown,Data scienc,Python,React,Data Scientist,Google Cloud Certified,6.0
+264,Bsc,Comp Science,python,React,Frontend Developer,Microsoft Azure Certified,2.0
+265,M.Sc,Information Technology,python,flask,Full Stack Developer,Spring Certified,5.0
+266,bsc,Comp Science,java,Unknown,AI Engineer,Google Cloud Certified,6.0
+267,M.Sc,Artificial Intelligence,JavaScript,Django,Frontend Developer,Certified Web Developer,0.0
+268,bsc,Data Science,SQL,React,Software Engineer,TensorFlow Certified,8.0
+269,M.Sc,Comp Science,python,React,Unknown,Unknown,1.0
+270,Msc,Computer Science,java,flask,Software Engineer,AWS Certified,3.0
+271,M.Tech,Software Engineering,C++,Machine Learning,Data Scientist,Spring Certified,4.0
+272,Bsc,Data Science,Unknown,flask,Backend Developer,Spring Certified,8.0
+273,M.Sc,Computer Science,java,Node.js,Frontend Developer,Microsoft Azure Certified,4.0
+274,M.Sc,Unknown,Unknown,Flask,Software Engineer,Certified Web Developer,4.0
+275,B.Sc,Data scienc,HTML,Unknown,AI Engineer,Google Cloud Certified,7.0
+276,msc,Artificial Intelligence,C++,Django,Unknown,Certified Web Developer,3.0
+277,Msc,Unknown,C++,Machine Learning,Unknown,Certified Web Developer,7.0
+278,Bsc,Data scienc,C++,Machine Learning,Backend Developer,Microsoft Azure Certified,6.0
+279,msc,Unknown,Python,Django,Unknown,Spring Certified,4.0
+280,bsc,Information Technology,JavaScript,Deep Learning,Software Engineer,AWS Certified,2.0
+281,Bsc,Comp Science,java,Node.js,Data Scientist,AWS Certified,8.0
+282,B.Tech,Information Technology,JavaScript,Django,Backend Developer,Google Cloud Certified,6.0
+283,M.Sc,Unknown,Java,Django,Backend Developer,TensorFlow Certified,2.0
+284,Bsc,Data Science,Python,Machine Learning,Software Engineer,Google Cloud Certified,2.0
+285,B.Tech,Artificial Intelligence,SQL,Django,Frontend Developer,TensorFlow Certified,5.0
+286,Unknown,Comp Science,SQL,Django,Unknown,Spring Certified,21.247069691568345
+287,M.Tech,Unknown,HTML,React,Full Stack Developer,Unknown,8.0
+288,bsc,Unknown,HTML,Node.js,Unknown,AWS Certified,5.0
+289,msc,Unknown,python,Unknown,Backend Developer,TensorFlow Certified,5.0
+290,B.Sc,Data Science,C++,Flask,Frontend Developer,Spring Certified,7.0
+291,Unknown,Unknown,JavaScript,Machine Learning,Full Stack Developer,Certified Web Developer,1.0
+292,B.Tech,Software Engineering,Unknown,Machine Learning,Full Stack Developer,TensorFlow Certified,0.0
+293,Unknown,Data Science,python,react,Frontend Developer,Spring Certified,2.0
+294,B.Sc,Software Engineering,Java,React,Backend Developer,Microsoft Azure Certified,7.0
+295,B.Tech,Data Science,Python,flask,Software Engineer,Microsoft Azure Certified,4.0
+296,M.Sc,Information Technology,C++,Unknown,Backend Developer,AWS Certified,2.0
+297,B.Sc,Artificial Intelligence,JavaScript,flask,Data Scientist,Certified Web Developer,5.0
+298,Msc,Computer Science,Python,flask,Full Stack Developer,Microsoft Azure Certified,5.0
+299,Bsc,Software Engineering,java,react,Software Engineer,AWS Certified,8.0
+300,M.Sc,Data scienc,python,Machine Learning,Software Engineer,Unknown,6.0
+301,Msc,Information Technology,Unknown,flask,Software Engineer,TensorFlow Certified,6.0
+302,M.Sc,Data Science,Java,Node.js,Data Scientist,Spring Certified,4.0
+303,bsc,Information Technology,Java,react,Frontend Developer,TensorFlow Certified,7.0
+304,Unknown,Software Engineering,java,Node.js,Full Stack Developer,Certified Web Developer,4.0
+305,B.Sc,Data Science,HTML,Unknown,Data Scientist,Google Cloud Certified,2.0
+306,Bsc,Unknown,JavaScript,Flask,AI Engineer,TensorFlow Certified,6.0
+307,Unknown,Information Technology,Java,Django,Software Engineer,Certified Web Developer,6.0
+308,bsc,Data scienc,JavaScript,Django,Software Engineer,Google Cloud Certified,4.0
+309,Bsc,Comp Science,HTML,react,AI Engineer,TensorFlow Certified,2.0
+310,B.Sc,Comp Science,SQL,react,Backend Developer,TensorFlow Certified,6.0
+311,Bsc,Data Science,C++,React,Unknown,Certified Web Developer,2.0
+312,M.Sc,Comp Science,python,Flask,Frontend Developer,Google Cloud Certified,4.0
+313,Msc,Comp Science,java,Machine Learning,Unknown,AWS Certified,8.0
+314,M.Tech,Data Science,HTML,react,AI Engineer,TensorFlow Certified,3.0
+315,M.Sc,Software Engineering,Java,flask,Backend Developer,Microsoft Azure Certified,7.0
+316,bsc,Unknown,HTML,Unknown,Software Engineer,Google Cloud Certified,8.0
+317,M.Tech,Unknown,Python,Django,Data Scientist,Certified Web Developer,3.0
+318,Bsc,Artificial Intelligence,Unknown,Django,Software Engineer,AWS Certified,5.0
+319,bsc,Information Technology,python,Unknown,Frontend Developer,TensorFlow Certified,6.0
+320,msc,Comp Science,Java,Unknown,AI Engineer,Google Cloud Certified,7.0
+321,B.Sc,Software Engineering,JavaScript,Django,AI Engineer,Google Cloud Certified,6.0
+322,B.Tech,Comp Science,Python,React,AI Engineer,Google Cloud Certified,6.0
+323,B.Tech,Unknown,python,Machine Learning,Software Engineer,Microsoft Azure Certified,6.0
+324,Bsc,Software Engineering,Java,Node.js,Full Stack Developer,Microsoft Azure Certified,9.0
+325,M.Tech,Data scienc,C++,Machine Learning,Software Engineer,Microsoft Azure Certified,1.0
+326,Msc,Comp Science,SQL,Node.js,Backend Developer,Spring Certified,4.0
+327,B.Tech,Software Engineering,C++,react,Software Engineer,Microsoft Azure Certified,1.0
+328,bsc,Data scienc,Java,Node.js,Backend Developer,Unknown,8.0
+329,B.Sc,Computer Science,Java,react,Backend Developer,Microsoft Azure Certified,2.0
+330,Unknown,Data scienc,HTML,Flask,Backend Developer,Certified Web Developer,4.0
+331,M.Sc,Information Technology,HTML,Django,Data Scientist,Google Cloud Certified,7.0
+332,Msc,Computer Science,Java,Machine Learning,Full Stack Developer,Microsoft Azure Certified,1.0
+333,B.Sc,Data Science,java,Node.js,Unknown,Certified Web Developer,7.0
+334,M.Tech,Unknown,Python,flask,Unknown,Certified Web Developer,3.0
+335,M.Tech,Computer Science,C++,React,Full Stack Developer,Unknown,3.0
+336,M.Tech,Information Technology,HTML,Django,AI Engineer,Unknown,0.0
+337,Bsc,Information Technology,Java,react,Software Engineer,TensorFlow Certified,3.0
+338,Msc,Software Engineering,Python,Flask,Data Scientist,Certified Web Developer,5.0
+339,B.Sc,Data scienc,python,Node.js,Unknown,Microsoft Azure Certified,4.0
+340,M.Sc,Unknown,Unknown,Deep Learning,AI Engineer,Spring Certified,4.0
+341,M.Tech,Data scienc,C++,Deep Learning,Frontend Developer,Certified Web Developer,8.0
+342,B.Tech,Artificial Intelligence,python,react,AI Engineer,Certified Web Developer,7.0
+343,Msc,Computer Science,java,Deep Learning,Frontend Developer,Microsoft Azure Certified,1.0
+344,M.Tech,Data scienc,Python,Django,Frontend Developer,AWS Certified,2.0
+345,M.Tech,Artificial Intelligence,HTML,Machine Learning,Full Stack Developer,Certified Web Developer,5.0
+346,Bsc,Data Science,Unknown,react,Unknown,AWS Certified,4.0
+347,M.Tech,Data scienc,JavaScript,Machine Learning,Unknown,Microsoft Azure Certified,8.0
+348,M.Sc,Artificial Intelligence,java,Deep Learning,Frontend Developer,Microsoft Azure Certified,1.0
+349,msc,Artificial Intelligence,SQL,Deep Learning,Unknown,AWS Certified,7.0
+350,Unknown,Data scienc,python,Unknown,Backend Developer,Google Cloud Certified,5.0
+351,bsc,Information Technology,JavaScript,Django,Full Stack Developer,Spring Certified,1.0
+352,Bsc,Data scienc,Java,Node.js,Data Scientist,Unknown,1.0
+353,Bsc,Computer Science,Python,Machine Learning,Full Stack Developer,Spring Certified,1.0
+354,Msc,Data Science,Unknown,React,Data Scientist,Unknown,3.0
+355,bsc,Computer Science,SQL,flask,Full Stack Developer,Google Cloud Certified,5.0
+356,B.Tech,Comp Science,Python,Machine Learning,AI Engineer,Microsoft Azure Certified,4.0
+357,M.Sc,Software Engineering,python,Flask,Data Scientist,AWS Certified,5.0
+358,bsc,Data scienc,python,Flask,Full Stack Developer,Microsoft Azure Certified,1.0
+359,Unknown,Data Science,Python,Machine Learning,Full Stack Developer,Unknown,4.0
+360,M.Sc,Software Engineering,HTML,Django,AI Engineer,Certified Web Developer,5.0
+361,M.Tech,Data Science,Python,Flask,Unknown,AWS Certified,1.0
+362,bsc,Artificial Intelligence,JavaScript,Machine Learning,Software Engineer,Spring Certified,6.0
+363,Unknown,Software Engineering,java,Flask,Data Scientist,Spring Certified,1.0
+364,msc,Software Engineering,Java,React,AI Engineer,Microsoft Azure Certified,1.0
+365,B.Sc,Unknown,Java,Deep Learning,Backend Developer,Certified Web Developer,13.0
+366,M.Tech,Comp Science,HTML,react,Full Stack Developer,Google Cloud Certified,5.0
+367,B.Tech,Artificial Intelligence,JavaScript,Flask,Frontend Developer,Google Cloud Certified,9.0
+368,Unknown,Computer Science,Unknown,Deep Learning,Software Engineer,Google Cloud Certified,2.0
+369,M.Tech,Information Technology,SQL,Django,Data Scientist,Unknown,2.0
+370,B.Tech,Data Science,Java,Machine Learning,Frontend Developer,Spring Certified,3.0
+371,Bsc,Information Technology,Python,flask,Backend Developer,AWS Certified,3.0
+372,B.Sc,Unknown,C++,Flask,Unknown,TensorFlow Certified,4.0
+373,bsc,Software Engineering,SQL,react,AI Engineer,Unknown,7.0
+374,bsc,Information Technology,Python,Flask,Data Scientist,Unknown,2.0
+375,Unknown,Comp Science,Java,Unknown,Frontend Developer,AWS Certified,0.0
+376,M.Tech,Information Technology,HTML,react,Full Stack Developer,Spring Certified,9.0
+377,M.Sc,Artificial Intelligence,HTML,react,Unknown,Certified Web Developer,4.0
+378,M.Tech,Software Engineering,C++,Node.js,Software Engineer,Unknown,1.0
+379,bsc,Computer Science,HTML,Unknown,Unknown,Microsoft Azure Certified,8.0
+380,bsc,Unknown,java,Django,Backend Developer,Certified Web Developer,4.0
+381,B.Tech,Computer Science,HTML,flask,Software Engineer,TensorFlow Certified,4.0
+382,B.Sc,Artificial Intelligence,java,Flask,Data Scientist,AWS Certified,3.0
+383,B.Tech,Comp Science,Unknown,react,Data Scientist,Spring Certified,4.0
+384,M.Tech,Information Technology,Python,Flask,AI Engineer,Certified Web Developer,8.0
+385,Bsc,Computer Science,java,Machine Learning,Backend Developer,Microsoft Azure Certified,2.0
+386,B.Sc,Software Engineering,java,Django,Frontend Developer,Google Cloud Certified,2.0
+387,M.Sc,Information Technology,python,Machine Learning,Data Scientist,Google Cloud Certified,5.0
+388,bsc,Comp Science,C++,Django,Data Scientist,Microsoft Azure Certified,8.0
+389,bsc,Computer Science,Unknown,flask,Data Scientist,TensorFlow Certified,6.0
+390,Unknown,Data Science,C++,Django,Backend Developer,TensorFlow Certified,2.0
+391,M.Tech,Data scienc,C++,React,Unknown,Microsoft Azure Certified,7.0
+392,M.Sc,Unknown,java,Unknown,AI Engineer,Google Cloud Certified,4.0
+393,M.Sc,Comp Science,Java,react,Backend Developer,Certified Web Developer,4.0
+394,B.Tech,Information Technology,C++,Machine Learning,Unknown,Unknown,9.0
+395,Unknown,Information Technology,Python,react,Software Engineer,Unknown,3.0
+396,Msc,Comp Science,java,Deep Learning,Unknown,AWS Certified,4.0
+397,Msc,Data Science,HTML,React,AI Engineer,Certified Web Developer,1.0
+398,msc,Data Science,HTML,Flask,Software Engineer,Microsoft Azure Certified,9.0
+399,bsc,Comp Science,Java,flask,AI Engineer,AWS Certified,0.0
+400,Msc,Artificial Intelligence,JavaScript,react,Unknown,Unknown,1.0
+401,msc,Unknown,JavaScript,flask,Software Engineer,Microsoft Azure Certified,4.0
+402,B.Sc,Information Technology,Unknown,Node.js,Software Engineer,Certified Web Developer,9.0
+403,Bsc,Data Science,java,Machine Learning,Software Engineer,TensorFlow Certified,4.0
+404,Msc,Comp Science,HTML,Unknown,Data Scientist,Microsoft Azure Certified,9.0
+405,Msc,Data Science,JavaScript,flask,Data Scientist,Spring Certified,9.0
+406,Msc,Data Science,java,Deep Learning,Unknown,Microsoft Azure Certified,0.0
+407,B.Tech,Information Technology,HTML,react,Software Engineer,Certified Web Developer,21.247069691568345
+408,msc,Software Engineering,SQL,Machine Learning,Backend Developer,TensorFlow Certified,8.0
+409,msc,Unknown,C++,Machine Learning,AI Engineer,Unknown,2.0
+410,Bsc,Computer Science,Java,react,Unknown,Spring Certified,8.0
+411,bsc,Computer Science,Unknown,Unknown,Data Scientist,TensorFlow Certified,10.0
+412,M.Tech,Data Science,Unknown,Machine Learning,AI Engineer,Spring Certified,7.0
+413,bsc,Data Science,Java,Unknown,Software Engineer,Unknown,2.0
+414,B.Tech,Unknown,SQL,Flask,Software Engineer,Spring Certified,10.0
+415,msc,Software Engineering,JavaScript,react,Full Stack Developer,Certified Web Developer,5.0
+416,Unknown,Unknown,java,Django,Frontend Developer,Spring Certified,1.0
+417,bsc,Data scienc,C++,flask,Frontend Developer,Unknown,2.0
+418,M.Sc,Data Science,SQL,flask,Software Engineer,Google Cloud Certified,3.0
+419,bsc,Information Technology,Java,Machine Learning,AI Engineer,Spring Certified,3.0
+420,M.Tech,Information Technology,Java,Node.js,Full Stack Developer,TensorFlow Certified,0.0
+421,M.Tech,Computer Science,HTML,Unknown,Backend Developer,Unknown,8.0
+422,B.Sc,Data scienc,Unknown,Node.js,Unknown,Spring Certified,5.0
+423,Bsc,Data scienc,Unknown,Flask,Data Scientist,Google Cloud Certified,8.0
+424,B.Tech,Computer Science,SQL,flask,AI Engineer,Google Cloud Certified,8.0
+425,Msc,Data Science,JavaScript,Django,Full Stack Developer,Certified Web Developer,3.0
+426,M.Tech,Information Technology,JavaScript,Unknown,Full Stack Developer,Microsoft Azure Certified,10.0
+427,B.Tech,Data scienc,Java,Django,Full Stack Developer,Microsoft Azure Certified,4.0
+428,Msc,Software Engineering,JavaScript,flask,Full Stack Developer,Spring Certified,7.0
+429,Unknown,Comp Science,Python,Deep Learning,Backend Developer,Microsoft Azure Certified,7.0
+430,msc,Comp Science,JavaScript,Django,Data Scientist,Google Cloud Certified,10.0
+431,B.Sc,Information Technology,C++,Django,Full Stack Developer,AWS Certified,6.0
+432,M.Sc,Data Science,java,Flask,Unknown,Certified Web Developer,0.0
+433,bsc,Artificial Intelligence,C++,React,Full Stack Developer,Google Cloud Certified,6.0
+434,M.Tech,Unknown,HTML,flask,Software Engineer,Google Cloud Certified,8.0
+435,bsc,Data scienc,Python,React,Software Engineer,Spring Certified,3.0
+436,Bsc,Computer Science,SQL,Machine Learning,AI Engineer,Microsoft Azure Certified,7.0
+437,B.Sc,Data Science,SQL,Machine Learning,Full Stack Developer,Google Cloud Certified,4.0
+438,msc,Comp Science,Java,Node.js,Frontend Developer,Certified Web Developer,6.0
+439,Unknown,Computer Science,Unknown,Unknown,Full Stack Developer,TensorFlow Certified,5.0
+440,M.Tech,Artificial Intelligence,JavaScript,Unknown,Full Stack Developer,Google Cloud Certified,13.0
+441,M.Tech,Software Engineering,C++,Deep Learning,AI Engineer,Microsoft Azure Certified,7.0
+442,Msc,Information Technology,Unknown,Django,Full Stack Developer,Spring Certified,4.0
+443,M.Tech,Unknown,SQL,Django,Frontend Developer,Microsoft Azure Certified,7.0
+444,M.Tech,Unknown,Unknown,Machine Learning,Frontend Developer,Certified Web Developer,5.0
+445,B.Tech,Software Engineering,HTML,flask,AI Engineer,AWS Certified,8.0
+446,Bsc,Computer Science,Python,react,Full Stack Developer,Microsoft Azure Certified,6.0
+447,M.Tech,Software Engineering,Java,Deep Learning,Full Stack Developer,Microsoft Azure Certified,7.0
+448,B.Sc,Information Technology,C++,Node.js,Unknown,Microsoft Azure Certified,8.0
+449,M.Sc,Data Science,C++,Unknown,Data Scientist,Microsoft Azure Certified,7.0
+450,Bsc,Information Technology,HTML,react,AI Engineer,Certified Web Developer,3.0
+451,M.Sc,Unknown,HTML,Unknown,Full Stack Developer,Microsoft Azure Certified,3.0
+452,msc,Unknown,java,Node.js,Backend Developer,Google Cloud Certified,5.0
+453,Msc,Information Technology,Java,Deep Learning,Data Scientist,TensorFlow Certified,3.0
+454,M.Tech,Unknown,python,Flask,Unknown,Microsoft Azure Certified,1.0
+455,B.Sc,Comp Science,python,Node.js,Frontend Developer,TensorFlow Certified,2.0
+456,M.Sc,Comp Science,java,react,Backend Developer,TensorFlow Certified,3.0
+457,Msc,Unknown,HTML,Node.js,AI Engineer,Certified Web Developer,8.0
+458,Unknown,Data Science,java,Deep Learning,Full Stack Developer,AWS Certified,1.0
+459,bsc,Comp Science,Java,react,Backend Developer,AWS Certified,5.0
+460,B.Tech,Unknown,python,Machine Learning,Backend Developer,Spring Certified,1.0
+461,Bsc,Data Science,python,Deep Learning,Full Stack Developer,Google Cloud Certified,4.0
+462,Unknown,Information Technology,Unknown,Deep Learning,Unknown,Microsoft Azure Certified,3.0
+463,B.Sc,Artificial Intelligence,SQL,Django,AI Engineer,AWS Certified,5.0
+464,M.Sc,Data Science,Java,Flask,AI Engineer,Microsoft Azure Certified,6.0
+465,B.Tech,Information Technology,JavaScript,Node.js,Software Engineer,Spring Certified,6.0
+466,bsc,Data Science,Java,react,AI Engineer,AWS Certified,8.0
+467,Msc,Artificial Intelligence,python,Node.js,AI Engineer,Google Cloud Certified,10.0
+468,msc,Comp Science,JavaScript,Flask,Data Scientist,Unknown,2.0
+469,B.Sc,Unknown,Unknown,React,Unknown,AWS Certified,1.0
+470,Bsc,Software Engineering,Java,Unknown,Backend Developer,TensorFlow Certified,6.0
+471,Msc,Artificial Intelligence,Unknown,Machine Learning,AI Engineer,AWS Certified,10.0
+472,B.Tech,Computer Science,SQL,Flask,AI Engineer,AWS Certified,3.0
+473,M.Sc,Comp Science,java,Unknown,Frontend Developer,TensorFlow Certified,8.0
+474,bsc,Software Engineering,SQL,flask,Software Engineer,Spring Certified,1.0
+475,Bsc,Artificial Intelligence,Python,Machine Learning,Backend Developer,Spring Certified,2.0
+476,B.Sc,Software Engineering,Java,Deep Learning,Unknown,AWS Certified,5.0
+477,B.Tech,Unknown,SQL,Node.js,AI Engineer,Google Cloud Certified,4.0
+478,M.Sc,Data scienc,Python,Unknown,AI Engineer,Microsoft Azure Certified,8.0
+479,Msc,Software Engineering,python,flask,Data Scientist,Microsoft Azure Certified,10.0
+480,B.Sc,Computer Science,JavaScript,Flask,Frontend Developer,TensorFlow Certified,6.0
+481,Bsc,Comp Science,Unknown,React,Software Engineer,AWS Certified,4.0
+482,M.Tech,Unknown,C++,react,Data Scientist,Certified Web Developer,6.0
+483,M.Sc,Comp Science,JavaScript,Django,Backend Developer,Google Cloud Certified,5.0
+484,Bsc,Data Science,java,React,Software Engineer,Certified Web Developer,3.0
+485,msc,Computer Science,Unknown,flask,Unknown,TensorFlow Certified,8.0
+486,M.Sc,Data scienc,HTML,Flask,Software Engineer,TensorFlow Certified,5.0
+487,msc,Computer Science,python,Deep Learning,Data Scientist,Google Cloud Certified,1.0
+488,M.Tech,Data Science,SQL,Deep Learning,Unknown,Certified Web Developer,6.0
+489,Unknown,Information Technology,python,Django,Software Engineer,Spring Certified,2.0
+490,bsc,Information Technology,SQL,Flask,Frontend Developer,AWS Certified,3.0
+491,Msc,Comp Science,Python,Django,Frontend Developer,AWS Certified,3.0
+492,M.Tech,Data Science,SQL,Machine Learning,Software Engineer,Google Cloud Certified,4.0
+493,Msc,Information Technology,python,Deep Learning,Full Stack Developer,Unknown,2.0
+494,B.Sc,Computer Science,HTML,flask,Software Engineer,Certified Web Developer,5.0
+495,B.Sc,Software Engineering,C++,Unknown,Unknown,TensorFlow Certified,0.0
+496,M.Tech,Computer Science,JavaScript,flask,AI Engineer,Certified Web Developer,4.0
+497,bsc,Artificial Intelligence,Unknown,Flask,Backend Developer,AWS Certified,9.0
+498,M.Tech,Artificial Intelligence,Unknown,Django,Data Scientist,Microsoft Azure Certified,3.0
+499,M.Tech,Computer Science,Python,react,Data Scientist,AWS Certified,2.0
+500,msc,Artificial Intelligence,SQL,Deep Learning,Data Scientist,TensorFlow Certified,0.0
+501,B.Sc,Artificial Intelligence,SQL,Node.js,Frontend Developer,Certified Web Developer,1.0
+502,B.Tech,Data scienc,python,Deep Learning,Frontend Developer,Unknown,4.0
+503,M.Sc,Data Science,java,Node.js,Software Engineer,AWS Certified,6.0
+504,Bsc,Data Science,Python,Flask,Data Scientist,Certified Web Developer,7.0
+505,Bsc,Software Engineering,JavaScript,Flask,Full Stack Developer,Unknown,8.0
+506,msc,Software Engineering,JavaScript,Unknown,Software Engineer,Google Cloud Certified,2.0
+507,Msc,Information Technology,Java,flask,Data Scientist,Google Cloud Certified,3.0
+508,bsc,Data scienc,JavaScript,Django,Backend Developer,AWS Certified,0.0
+509,Msc,Data Science,python,react,Data Scientist,AWS Certified,6.0
+510,bsc,Software Engineering,SQL,flask,Backend Developer,Spring Certified,5.0
+511,bsc,Unknown,HTML,react,Backend Developer,Spring Certified,8.0
+512,M.Tech,Data scienc,Java,React,Data Scientist,Certified Web Developer,6.0
+513,bsc,Data scienc,Java,react,AI Engineer,Google Cloud Certified,1.0
+514,bsc,Data Science,SQL,Node.js,AI Engineer,Google Cloud Certified,10.0
+515,msc,Data scienc,java,Deep Learning,Unknown,Certified Web Developer,7.0
+516,M.Tech,Unknown,Java,React,Frontend Developer,Certified Web Developer,4.0
+517,M.Tech,Data scienc,Java,flask,Full Stack Developer,Google Cloud Certified,1.0
+518,B.Tech,Information Technology,SQL,React,Frontend Developer,Certified Web Developer,3.0
+519,Bsc,Information Technology,Java,Deep Learning,Data Scientist,Unknown,8.0
+520,Unknown,Artificial Intelligence,Unknown,Django,Data Scientist,Microsoft Azure Certified,6.0
+521,M.Sc,Data Science,C++,React,AI Engineer,TensorFlow Certified,4.0
+522,M.Tech,Comp Science,C++,flask,Unknown,Unknown,4.0
+523,B.Sc,Software Engineering,C++,Django,AI Engineer,AWS Certified,0.0
+524,msc,Computer Science,Python,Flask,AI Engineer,Google Cloud Certified,6.0
+525,M.Sc,Artificial Intelligence,SQL,Flask,Full Stack Developer,Google Cloud Certified,2.0
+526,M.Sc,Information Technology,Python,flask,Frontend Developer,Google Cloud Certified,7.0
+527,B.Sc,Unknown,Unknown,Unknown,Unknown,Unknown,1.0
+528,M.Tech,Software Engineering,python,Flask,Full Stack Developer,Unknown,0.0
+529,B.Sc,Data Science,Java,Machine Learning,AI Engineer,Google Cloud Certified,1.0
+530,Bsc,Software Engineering,Unknown,Deep Learning,Data Scientist,TensorFlow Certified,3.0
+531,Bsc,Data Science,JavaScript,React,Unknown,Unknown,8.0
+532,M.Sc,Software Engineering,Unknown,Node.js,Backend Developer,Spring Certified,3.0
+533,msc,Data scienc,SQL,React,Software Engineer,Certified Web Developer,0.0
+534,Bsc,Data scienc,SQL,Flask,Full Stack Developer,TensorFlow Certified,3.0
+535,Bsc,Unknown,Python,Node.js,Backend Developer,AWS Certified,2.0
+536,M.Tech,Artificial Intelligence,C++,Django,Unknown,Certified Web Developer,11.0
+537,Msc,Data Science,JavaScript,Unknown,Frontend Developer,Unknown,1.0
+538,Bsc,Information Technology,Unknown,React,AI Engineer,Certified Web Developer,7.0
+539,bsc,Unknown,C++,React,AI Engineer,Google Cloud Certified,7.0
+540,Bsc,Computer Science,JavaScript,Unknown,Data Scientist,Spring Certified,0.0
+541,Bsc,Computer Science,Unknown,react,Unknown,AWS Certified,4.0
+542,bsc,Unknown,java,Flask,Full Stack Developer,TensorFlow Certified,4.0
+543,B.Tech,Comp Science,SQL,Unknown,Frontend Developer,AWS Certified,4.0
+544,M.Sc,Software Engineering,C++,React,Data Scientist,TensorFlow Certified,6.0
+545,msc,Information Technology,Unknown,Node.js,Software Engineer,Spring Certified,4.0
+546,msc,Unknown,Unknown,Flask,Backend Developer,Microsoft Azure Certified,7.0
+547,M.Tech,Computer Science,HTML,react,Software Engineer,Spring Certified,12.0
+548,Bsc,Information Technology,SQL,Django,Frontend Developer,Microsoft Azure Certified,5.0
+549,Bsc,Data Science,C++,Machine Learning,Backend Developer,AWS Certified,5.0
+550,Bsc,Computer Science,JavaScript,flask,Full Stack Developer,Google Cloud Certified,5.0
+551,B.Sc,Computer Science,Java,React,AI Engineer,TensorFlow Certified,7.0
+552,B.Sc,Unknown,JavaScript,Django,Data Scientist,Google Cloud Certified,8.0
+553,B.Sc,Software Engineering,python,Deep Learning,Full Stack Developer,Unknown,5.0
+554,Msc,Comp Science,Java,Machine Learning,AI Engineer,TensorFlow Certified,0.0
+555,B.Tech,Artificial Intelligence,C++,Node.js,Backend Developer,TensorFlow Certified,0.0
+556,B.Tech,Data scienc,JavaScript,flask,Frontend Developer,TensorFlow Certified,4.0
+557,Unknown,Data scienc,python,Node.js,Unknown,Microsoft Azure Certified,3.0
+558,msc,Computer Science,C++,Flask,Frontend Developer,Unknown,4.0
+559,Bsc,Information Technology,Python,Deep Learning,Software Engineer,TensorFlow Certified,3.0
+560,M.Tech,Comp Science,python,react,Frontend Developer,Certified Web Developer,9.0
+561,Bsc,Information Technology,python,react,Data Scientist,AWS Certified,4.0
+562,M.Sc,Artificial Intelligence,python,Django,Backend Developer,Unknown,5.0
+563,Bsc,Comp Science,python,Unknown,Software Engineer,Certified Web Developer,3.0
+564,M.Tech,Computer Science,java,Django,Data Scientist,Spring Certified,1.0
+565,M.Sc,Information Technology,python,Flask,Data Scientist,Google Cloud Certified,9.0
+566,Msc,Computer Science,C++,flask,Full Stack Developer,TensorFlow Certified,3.0
+567,Bsc,Software Engineering,JavaScript,flask,Frontend Developer,AWS Certified,4.0
+568,M.Sc,Comp Science,Unknown,Flask,AI Engineer,AWS Certified,0.0
+569,Bsc,Unknown,HTML,Deep Learning,AI Engineer,Google Cloud Certified,2.0
+570,M.Tech,Information Technology,JavaScript,Node.js,Data Scientist,AWS Certified,5.0
+571,M.Sc,Artificial Intelligence,HTML,Django,AI Engineer,Certified Web Developer,4.0
+572,Msc,Data scienc,java,Machine Learning,Full Stack Developer,Certified Web Developer,7.0
+573,B.Sc,Information Technology,Python,Machine Learning,Backend Developer,Spring Certified,9.0
+574,bsc,Computer Science,HTML,Flask,Frontend Developer,Spring Certified,4.0
+575,B.Sc,Artificial Intelligence,HTML,flask,Unknown,Microsoft Azure Certified,2.0
+576,B.Tech,Artificial Intelligence,python,Node.js,Backend Developer,Unknown,6.0
+577,M.Sc,Information Technology,Unknown,flask,Backend Developer,TensorFlow Certified,2.0
+578,M.Tech,Information Technology,Java,flask,Software Engineer,Google Cloud Certified,3.0
+579,Msc,Comp Science,HTML,Unknown,Software Engineer,TensorFlow Certified,3.0
+580,msc,Artificial Intelligence,Python,React,Software Engineer,Spring Certified,6.0
+581,M.Sc,Artificial Intelligence,C++,Django,Full Stack Developer,TensorFlow Certified,3.0
+582,Bsc,Computer Science,python,react,Full Stack Developer,Google Cloud Certified,8.0
+583,Bsc,Data Science,JavaScript,react,Backend Developer,Unknown,6.0
+584,Bsc,Unknown,HTML,Node.js,AI Engineer,Unknown,4.0
+585,msc,Software Engineering,java,Django,AI Engineer,Certified Web Developer,5.0
+586,Msc,Artificial Intelligence,Python,Machine Learning,Full Stack Developer,Microsoft Azure Certified,8.0
+587,Unknown,Information Technology,Python,Django,Full Stack Developer,Certified Web Developer,6.0
+588,B.Tech,Computer Science,Python,Deep Learning,Unknown,Unknown,6.0
+589,B.Sc,Artificial Intelligence,HTML,Unknown,Full Stack Developer,TensorFlow Certified,2.0
+590,bsc,Data scienc,java,React,Frontend Developer,Google Cloud Certified,7.0
+591,M.Sc,Computer Science,SQL,Unknown,Unknown,Google Cloud Certified,4.0
+592,Unknown,Data scienc,HTML,flask,AI Engineer,TensorFlow Certified,3.0
+593,Bsc,Comp Science,SQL,React,Data Scientist,Certified Web Developer,4.0
+594,bsc,Comp Science,SQL,Flask,Backend Developer,AWS Certified,8.0
+595,B.Sc,Information Technology,C++,Deep Learning,Backend Developer,AWS Certified,4.0
+596,Msc,Data Science,python,Node.js,Software Engineer,Certified Web Developer,5.0
+597,Bsc,Artificial Intelligence,SQL,Unknown,Backend Developer,Unknown,7.0
+598,msc,Software Engineering,Python,React,Data Scientist,Google Cloud Certified,4.0
+599,Bsc,Computer Science,Java,Unknown,Backend Developer,AWS Certified,0.0
+600,B.Tech,Data Science,SQL,Unknown,Full Stack Developer,AWS Certified,4.0
+601,bsc,Data scienc,SQL,Unknown,Unknown,Microsoft Azure Certified,3.0
+602,M.Sc,Data Science,Unknown,Django,Data Scientist,Spring Certified,6.0
+603,M.Sc,Artificial Intelligence,JavaScript,Deep Learning,Backend Developer,TensorFlow Certified,13.0
+604,M.Sc,Information Technology,HTML,Node.js,AI Engineer,Unknown,7.0
+605,M.Tech,Unknown,Python,flask,Frontend Developer,Unknown,5.0
+606,Unknown,Artificial Intelligence,C++,Deep Learning,Data Scientist,Spring Certified,3.0
+607,msc,Data Science,Java,Node.js,Unknown,TensorFlow Certified,3.0
+608,Unknown,Data scienc,Unknown,Machine Learning,Full Stack Developer,Unknown,7.0
+609,bsc,Information Technology,JavaScript,flask,AI Engineer,Unknown,7.0
+610,B.Sc,Software Engineering,C++,Machine Learning,Software Engineer,Certified Web Developer,6.0
+611,Msc,Software Engineering,Python,Flask,Frontend Developer,Microsoft Azure Certified,3.0
+612,B.Sc,Computer Science,Unknown,Deep Learning,AI Engineer,TensorFlow Certified,8.0
+613,Unknown,Computer Science,C++,Machine Learning,Full Stack Developer,Google Cloud Certified,4.0
+614,Unknown,Information Technology,JavaScript,Node.js,AI Engineer,Unknown,8.0
+615,B.Sc,Information Technology,JavaScript,react,Backend Developer,Spring Certified,3.0
+616,Msc,Computer Science,SQL,Deep Learning,Backend Developer,Google Cloud Certified,1.0
+617,msc,Information Technology,SQL,Deep Learning,Unknown,Certified Web Developer,1.0
+618,msc,Data Science,HTML,React,Data Scientist,Google Cloud Certified,6.0
+619,msc,Information Technology,Unknown,Deep Learning,Backend Developer,Unknown,0.0
+620,Unknown,Data Science,Unknown,flask,Software Engineer,Microsoft Azure Certified,8.0
+621,M.Tech,Unknown,C++,flask,Full Stack Developer,TensorFlow Certified,7.0
+622,Bsc,Unknown,java,react,Software Engineer,Unknown,6.0
+623,B.Sc,Comp Science,Python,React,Full Stack Developer,Google Cloud Certified,5.0
+624,B.Tech,Artificial Intelligence,java,flask,AI Engineer,Certified Web Developer,6.0
+625,Unknown,Unknown,JavaScript,Flask,AI Engineer,Certified Web Developer,5.0
+626,msc,Software Engineering,Unknown,react,Full Stack Developer,Spring Certified,5.0
+627,Msc,Computer Science,SQL,React,Unknown,Google Cloud Certified,1.0
+628,Bsc,Data Science,SQL,Machine Learning,Frontend Developer,TensorFlow Certified,0.0
+629,msc,Unknown,SQL,Django,Unknown,Unknown,6.0
+630,B.Sc,Computer Science,python,Machine Learning,Software Engineer,AWS Certified,4.0
+631,B.Tech,Information Technology,JavaScript,Machine Learning,Backend Developer,Spring Certified,4.0
+632,Unknown,Comp Science,HTML,Unknown,Backend Developer,Certified Web Developer,1.0
+633,B.Sc,Data Science,Java,Deep Learning,Full Stack Developer,Microsoft Azure Certified,1.0
+634,Msc,Artificial Intelligence,JavaScript,Machine Learning,Backend Developer,Google Cloud Certified,1.0
+635,B.Sc,Artificial Intelligence,JavaScript,flask,AI Engineer,Microsoft Azure Certified,3.0
+636,Bsc,Unknown,HTML,Deep Learning,Frontend Developer,Google Cloud Certified,11.0
+637,msc,Software Engineering,java,flask,AI Engineer,Google Cloud Certified,8.0
+638,M.Tech,Unknown,Unknown,flask,Frontend Developer,Microsoft Azure Certified,2.0
+639,Unknown,Data scienc,Java,Django,Software Engineer,Unknown,6.0
+640,B.Sc,Information Technology,python,Node.js,Unknown,Certified Web Developer,7.0
+641,Unknown,Data Science,Python,Flask,Frontend Developer,TensorFlow Certified,6.0
+642,B.Sc,Comp Science,Unknown,Flask,Frontend Developer,TensorFlow Certified,3.0
+643,B.Tech,Artificial Intelligence,SQL,flask,Software Engineer,Google Cloud Certified,0.0
+644,B.Tech,Data scienc,JavaScript,Flask,Data Scientist,Google Cloud Certified,4.0
+645,Unknown,Data scienc,JavaScript,Django,AI Engineer,Spring Certified,6.0
+646,B.Tech,Comp Science,python,react,Full Stack Developer,Unknown,2.0
+647,msc,Comp Science,Java,Node.js,Backend Developer,Google Cloud Certified,5.0
+648,msc,Unknown,C++,Deep Learning,Full Stack Developer,Spring Certified,3.0
+649,bsc,Data scienc,C++,Unknown,Backend Developer,Microsoft Azure Certified,4.0
+650,msc,Data scienc,Java,React,Backend Developer,AWS Certified,7.0
+651,M.Sc,Artificial Intelligence,java,React,Unknown,Unknown,6.0
+652,msc,Data Science,C++,Node.js,Full Stack Developer,Certified Web Developer,5.0
+653,Bsc,Artificial Intelligence,python,Unknown,Frontend Developer,TensorFlow Certified,5.0
+654,Msc,Comp Science,java,Unknown,AI Engineer,Microsoft Azure Certified,7.0
+655,B.Sc,Data Science,SQL,Deep Learning,Full Stack Developer,AWS Certified,2.0
+656,Bsc,Comp Science,C++,React,AI Engineer,Unknown,5.0
+657,Bsc,Unknown,Java,Django,Data Scientist,Spring Certified,5.0
+658,B.Sc,Computer Science,Java,flask,Software Engineer,Unknown,7.0
+659,Bsc,Software Engineering,Unknown,Deep Learning,AI Engineer,Unknown,1.0
+660,M.Tech,Artificial Intelligence,python,Django,Data Scientist,Unknown,3.0
+661,msc,Information Technology,JavaScript,Unknown,Unknown,TensorFlow Certified,4.0
+662,M.Sc,Information Technology,C++,Django,Data Scientist,TensorFlow Certified,1.0
+663,B.Sc,Artificial Intelligence,JavaScript,flask,Frontend Developer,Certified Web Developer,6.0
+664,M.Tech,Data scienc,HTML,Unknown,Backend Developer,Google Cloud Certified,4.0
+665,msc,Unknown,java,Machine Learning,Full Stack Developer,Certified Web Developer,9.0
+666,Unknown,Software Engineering,SQL,Flask,Software Engineer,TensorFlow Certified,11.0
+667,B.Tech,Data scienc,SQL,Unknown,Full Stack Developer,Certified Web Developer,3.0
+668,M.Tech,Artificial Intelligence,Unknown,Django,Unknown,Unknown,4.0
+669,Unknown,Unknown,HTML,React,Backend Developer,Unknown,4.0
+670,M.Sc,Data scienc,Unknown,Node.js,Software Engineer,Spring Certified,4.0
+671,bsc,Data scienc,C++,Unknown,Unknown,Unknown,6.0
+672,Msc,Data scienc,Unknown,Machine Learning,Full Stack Developer,Unknown,6.0
+673,Unknown,Data Science,SQL,Deep Learning,Unknown,Microsoft Azure Certified,5.0
+674,Msc,Data Science,Python,Flask,Backend Developer,AWS Certified,2.0
+675,M.Sc,Artificial Intelligence,JavaScript,Node.js,Software Engineer,Spring Certified,4.0
+676,Unknown,Information Technology,C++,Flask,Software Engineer,Unknown,6.0
+677,msc,Artificial Intelligence,python,Machine Learning,Unknown,Spring Certified,8.0
+678,msc,Software Engineering,JavaScript,Unknown,AI Engineer,AWS Certified,4.0
+679,Msc,Computer Science,Java,flask,AI Engineer,Google Cloud Certified,6.0
+680,M.Tech,Unknown,JavaScript,flask,Unknown,Certified Web Developer,9.0
+681,bsc,Data Science,JavaScript,Deep Learning,Data Scientist,Spring Certified,3.0
+682,B.Tech,Unknown,JavaScript,Node.js,Unknown,Unknown,5.0
+683,Unknown,Artificial Intelligence,java,Deep Learning,Full Stack Developer,Certified Web Developer,10.0
+684,B.Sc,Data Science,SQL,Flask,Data Scientist,Unknown,9.0
+685,M.Sc,Computer Science,java,Flask,Full Stack Developer,Spring Certified,5.0
+686,Msc,Data scienc,java,Flask,Frontend Developer,Google Cloud Certified,6.0
+687,B.Tech,Software Engineering,Java,Django,Full Stack Developer,Microsoft Azure Certified,0.0
+688,B.Tech,Artificial Intelligence,Python,Deep Learning,Software Engineer,Google Cloud Certified,0.0
+689,msc,Software Engineering,Java,Flask,Data Scientist,AWS Certified,1.0
+690,Bsc,Artificial Intelligence,java,Django,Backend Developer,AWS Certified,5.0
+691,Msc,Unknown,C++,flask,Frontend Developer,Spring Certified,1.0
+692,Msc,Information Technology,HTML,react,Backend Developer,Microsoft Azure Certified,7.0
+693,Unknown,Information Technology,Java,flask,Software Engineer,AWS Certified,1.0
+694,M.Tech,Data scienc,Unknown,React,Software Engineer,Microsoft Azure Certified,0.0
+695,M.Sc,Software Engineering,Unknown,Unknown,AI Engineer,Google Cloud Certified,2.0
+696,Unknown,Information Technology,JavaScript,react,Full Stack Developer,Google Cloud Certified,0.0
+697,Unknown,Comp Science,java,react,Full Stack Developer,Certified Web Developer,9.0
+698,Msc,Comp Science,C++,Django,Unknown,TensorFlow Certified,8.0
+699,Bsc,Computer Science,SQL,Flask,Full Stack Developer,Spring Certified,0.0
+700,Bsc,Unknown,Python,react,Frontend Developer,Certified Web Developer,7.0
+701,Unknown,Comp Science,JavaScript,flask,Software Engineer,Spring Certified,6.0
+702,Bsc,Artificial Intelligence,SQL,Machine Learning,AI Engineer,Google Cloud Certified,6.0
+703,Bsc,Artificial Intelligence,Java,Machine Learning,Data Scientist,Google Cloud Certified,2.0
+704,bsc,Comp Science,HTML,react,Full Stack Developer,AWS Certified,4.0
+705,Bsc,Software Engineering,python,react,Frontend Developer,Microsoft Azure Certified,3.0
+706,Bsc,Computer Science,Unknown,Django,Backend Developer,Microsoft Azure Certified,7.0
+707,B.Sc,Software Engineering,python,react,Full Stack Developer,Microsoft Azure Certified,8.0
+708,Msc,Computer Science,Unknown,Deep Learning,Backend Developer,Unknown,12.0
+709,B.Sc,Information Technology,C++,Machine Learning,Full Stack Developer,Google Cloud Certified,1.0
+710,M.Sc,Comp Science,java,Machine Learning,Software Engineer,Microsoft Azure Certified,8.0
+711,M.Sc,Comp Science,C++,Django,Data Scientist,AWS Certified,5.0
+712,M.Sc,Artificial Intelligence,HTML,react,Backend Developer,TensorFlow Certified,7.0
+713,M.Sc,Comp Science,C++,react,Software Engineer,Google Cloud Certified,1.0
+714,Bsc,Unknown,HTML,Deep Learning,AI Engineer,AWS Certified,0.0
+715,Msc,Software Engineering,Python,react,Data Scientist,TensorFlow Certified,4.0
+716,M.Tech,Comp Science,JavaScript,React,Data Scientist,Microsoft Azure Certified,2.0
+717,Unknown,Computer Science,HTML,Deep Learning,Unknown,Google Cloud Certified,5.0
+718,Unknown,Data Science,SQL,Machine Learning,Full Stack Developer,Certified Web Developer,5.0
+719,M.Tech,Computer Science,SQL,Node.js,Software Engineer,AWS Certified,1.0
+720,Bsc,Data Science,C++,Deep Learning,Backend Developer,AWS Certified,7.0
+721,B.Tech,Software Engineering,Java,Flask,Backend Developer,AWS Certified,5.0
+722,B.Sc,Software Engineering,Python,React,Backend Developer,Unknown,3.0
+723,B.Tech,Data scienc,SQL,Node.js,AI Engineer,AWS Certified,2.0
+724,M.Tech,Unknown,JavaScript,Deep Learning,AI Engineer,Spring Certified,1.0
+725,Unknown,Data scienc,SQL,Machine Learning,Unknown,AWS Certified,7.0
+726,B.Sc,Comp Science,SQL,flask,Frontend Developer,Certified Web Developer,4.0
+727,B.Tech,Data Science,Python,React,AI Engineer,Google Cloud Certified,7.0
+728,bsc,Artificial Intelligence,Python,Deep Learning,Backend Developer,Unknown,8.0
+729,M.Sc,Artificial Intelligence,Java,Unknown,Frontend Developer,Microsoft Azure Certified,2.0
+730,B.Sc,Computer Science,HTML,React,Full Stack Developer,AWS Certified,7.0
+731,B.Tech,Information Technology,C++,React,AI Engineer,Google Cloud Certified,7.0
+732,M.Sc,Information Technology,python,React,Data Scientist,Microsoft Azure Certified,5.0
+733,Msc,Data Science,HTML,flask,Software Engineer,Google Cloud Certified,3.0
+734,Msc,Artificial Intelligence,Java,Flask,Data Scientist,Spring Certified,6.0
+735,Msc,Artificial Intelligence,Java,flask,Full Stack Developer,Certified Web Developer,9.0
+736,Msc,Data scienc,C++,Node.js,Frontend Developer,Google Cloud Certified,6.0
+737,B.Tech,Information Technology,Unknown,React,AI Engineer,Certified Web Developer,4.0
+738,Msc,Unknown,Python,React,Backend Developer,Certified Web Developer,4.0
+739,B.Tech,Data scienc,SQL,React,Backend Developer,Spring Certified,4.0
+740,Bsc,Unknown,Unknown,Machine Learning,Data Scientist,Microsoft Azure Certified,2.0
+741,Bsc,Data scienc,HTML,Flask,Full Stack Developer,Microsoft Azure Certified,6.0
+742,bsc,Software Engineering,HTML,Unknown,Software Engineer,TensorFlow Certified,5.0
+743,bsc,Information Technology,C++,Django,Software Engineer,Unknown,6.0
+744,B.Sc,Data scienc,python,flask,Frontend Developer,Google Cloud Certified,6.0
+745,Unknown,Information Technology,HTML,flask,Software Engineer,Google Cloud Certified,4.0
+746,Msc,Computer Science,Java,react,Backend Developer,Microsoft Azure Certified,9.0
+747,M.Sc,Software Engineering,python,Flask,Software Engineer,Microsoft Azure Certified,4.0
+748,Bsc,Unknown,python,Unknown,Data Scientist,Google Cloud Certified,6.0
+749,Unknown,Artificial Intelligence,Java,Deep Learning,Full Stack Developer,AWS Certified,6.0
+750,B.Sc,Artificial Intelligence,JavaScript,Node.js,Software Engineer,Google Cloud Certified,0.0
+751,msc,Unknown,python,Node.js,AI Engineer,Spring Certified,2.0
+752,B.Tech,Software Engineering,Unknown,Django,Full Stack Developer,TensorFlow Certified,3.0
+753,B.Sc,Information Technology,C++,Machine Learning,AI Engineer,Microsoft Azure Certified,6.0
+754,M.Tech,Software Engineering,JavaScript,Node.js,Frontend Developer,Unknown,4.0
+755,msc,Computer Science,HTML,React,Data Scientist,TensorFlow Certified,7.0
+756,Msc,Software Engineering,java,Node.js,Full Stack Developer,Unknown,11.0
+757,bsc,Computer Science,Unknown,Node.js,AI Engineer,Google Cloud Certified,4.0
+758,msc,Data scienc,HTML,Flask,Unknown,Microsoft Azure Certified,10.0
+759,Msc,Data scienc,java,Machine Learning,AI Engineer,Google Cloud Certified,3.0
+760,B.Sc,Computer Science,HTML,React,Backend Developer,Certified Web Developer,2.0
+761,B.Tech,Data Science,C++,react,Frontend Developer,Microsoft Azure Certified,7.0
+762,Unknown,Computer Science,JavaScript,Unknown,Software Engineer,Google Cloud Certified,3.0
+763,B.Sc,Data scienc,C++,Node.js,Software Engineer,Microsoft Azure Certified,0.0
+764,Unknown,Data scienc,HTML,Django,Frontend Developer,TensorFlow Certified,5.0
+765,B.Tech,Software Engineering,HTML,flask,Backend Developer,Certified Web Developer,2.0
+766,bsc,Unknown,Java,Django,Full Stack Developer,Certified Web Developer,8.0
+767,B.Sc,Data Science,python,react,Software Engineer,Unknown,5.0
+768,bsc,Comp Science,C++,Node.js,Unknown,Google Cloud Certified,1.0
+769,bsc,Information Technology,C++,react,AI Engineer,Microsoft Azure Certified,3.0
+770,msc,Artificial Intelligence,HTML,Node.js,AI Engineer,TensorFlow Certified,2.0
+771,Msc,Information Technology,C++,react,Backend Developer,Unknown,9.0
+772,msc,Software Engineering,HTML,Django,Software Engineer,Unknown,2.0
+773,B.Sc,Unknown,HTML,Django,Full Stack Developer,AWS Certified,5.0
+774,M.Tech,Data Science,SQL,Django,Backend Developer,Certified Web Developer,4.0
+775,B.Tech,Unknown,java,Node.js,Frontend Developer,Microsoft Azure Certified,6.0
+776,bsc,Artificial Intelligence,Java,Node.js,AI Engineer,Microsoft Azure Certified,3.0
+777,M.Sc,Computer Science,HTML,Unknown,Full Stack Developer,Microsoft Azure Certified,2.0
+778,Bsc,Data Science,python,react,Software Engineer,Microsoft Azure Certified,3.0
+779,M.Sc,Software Engineering,HTML,flask,Unknown,AWS Certified,9.0
+780,Bsc,Data Science,Unknown,flask,AI Engineer,Microsoft Azure Certified,0.0
+781,B.Sc,Unknown,python,Django,Software Engineer,Spring Certified,6.0
+782,bsc,Artificial Intelligence,java,React,Software Engineer,TensorFlow Certified,1.0
+783,Unknown,Information Technology,python,Machine Learning,AI Engineer,Certified Web Developer,1.0
+784,M.Tech,Data Science,C++,React,Data Scientist,Certified Web Developer,5.0
+785,bsc,Software Engineering,HTML,React,Frontend Developer,TensorFlow Certified,2.0
+786,msc,Comp Science,java,Unknown,Software Engineer,AWS Certified,3.0
+787,msc,Unknown,JavaScript,Node.js,Backend Developer,Unknown,6.0
+788,B.Tech,Data scienc,Java,Node.js,Backend Developer,Microsoft Azure Certified,1.0
+789,Bsc,Artificial Intelligence,SQL,react,Full Stack Developer,Unknown,5.0
+790,Bsc,Unknown,python,Machine Learning,Software Engineer,AWS Certified,7.0
+791,B.Sc,Data Science,Unknown,Node.js,Full Stack Developer,TensorFlow Certified,1.0
+792,M.Tech,Artificial Intelligence,SQL,flask,Frontend Developer,Unknown,5.0
+793,B.Tech,Comp Science,HTML,react,Backend Developer,Google Cloud Certified,7.0
+794,B.Sc,Data Science,HTML,Machine Learning,Software Engineer,Microsoft Azure Certified,3.0
+795,Bsc,Software Engineering,python,Django,Unknown,Google Cloud Certified,3.0
+796,B.Sc,Information Technology,Python,Flask,AI Engineer,AWS Certified,5.0
+797,msc,Unknown,C++,flask,Backend Developer,AWS Certified,5.0
+798,bsc,Information Technology,C++,Django,AI Engineer,Google Cloud Certified,6.0
+799,M.Sc,Comp Science,JavaScript,react,Frontend Developer,Spring Certified,5.0
+800,B.Tech,Comp Science,Python,Django,Backend Developer,Unknown,4.0
+801,Bsc,Computer Science,Java,flask,Frontend Developer,Google Cloud Certified,8.0
+802,M.Tech,Information Technology,JavaScript,Unknown,Software Engineer,Spring Certified,10.0
+803,M.Sc,Artificial Intelligence,Python,Unknown,Data Scientist,Certified Web Developer,3.0
+804,bsc,Artificial Intelligence,JavaScript,react,Backend Developer,Unknown,3.0
+805,Unknown,Comp Science,Unknown,Unknown,Frontend Developer,Unknown,1.0
+806,Msc,Data Science,python,Unknown,Backend Developer,Microsoft Azure Certified,2.0
+807,B.Sc,Data scienc,JavaScript,flask,Backend Developer,Spring Certified,0.0
+808,msc,Software Engineering,JavaScript,Machine Learning,Frontend Developer,TensorFlow Certified,7.0
+809,msc,Software Engineering,python,Machine Learning,Unknown,Certified Web Developer,6.0
+810,Bsc,Data Science,SQL,Deep Learning,AI Engineer,Microsoft Azure Certified,2.0
+811,B.Tech,Data scienc,Unknown,Deep Learning,Unknown,AWS Certified,9.0
+812,bsc,Data Science,HTML,Node.js,Unknown,Microsoft Azure Certified,0.0
+813,bsc,Unknown,JavaScript,flask,Software Engineer,Certified Web Developer,3.0
+814,B.Tech,Software Engineering,Unknown,react,Unknown,TensorFlow Certified,3.0
+815,Unknown,Data scienc,java,react,Data Scientist,Unknown,0.0
+816,M.Sc,Unknown,python,Unknown,Unknown,Google Cloud Certified,7.0
+817,B.Sc,Comp Science,C++,React,Full Stack Developer,Microsoft Azure Certified,2.0
+818,B.Sc,Unknown,Python,flask,Frontend Developer,Google Cloud Certified,2.0
+819,M.Tech,Data Science,C++,Unknown,Full Stack Developer,Unknown,8.0
+820,M.Sc,Information Technology,JavaScript,Machine Learning,Software Engineer,AWS Certified,21.247069691568345
+821,B.Tech,Information Technology,Unknown,Node.js,Unknown,Unknown,7.0
+822,msc,Software Engineering,Python,flask,Backend Developer,TensorFlow Certified,4.0
+823,B.Tech,Information Technology,java,Machine Learning,Software Engineer,Spring Certified,0.0
+824,bsc,Comp Science,Java,flask,Backend Developer,Spring Certified,6.0
+825,Bsc,Information Technology,C++,Node.js,Frontend Developer,Certified Web Developer,9.0
+826,B.Tech,Unknown,Unknown,Flask,Full Stack Developer,Spring Certified,9.0
+827,Unknown,Data Science,C++,Unknown,AI Engineer,TensorFlow Certified,4.0
+828,M.Tech,Unknown,HTML,Unknown,Data Scientist,Certified Web Developer,4.0
+829,bsc,Artificial Intelligence,HTML,Django,Unknown,Unknown,2.0
+830,M.Sc,Artificial Intelligence,C++,flask,Software Engineer,AWS Certified,1.0
+831,Msc,Data scienc,Unknown,react,Software Engineer,TensorFlow Certified,6.0
+832,Bsc,Software Engineering,HTML,react,Full Stack Developer,Spring Certified,7.0
+833,M.Tech,Data scienc,Unknown,flask,Full Stack Developer,Certified Web Developer,3.0
+834,Bsc,Data scienc,HTML,react,Data Scientist,Unknown,21.247069691568345
+835,Unknown,Computer Science,Java,Flask,Unknown,Certified Web Developer,4.0
+836,B.Sc,Data Science,java,Unknown,Software Engineer,Spring Certified,7.0
+837,M.Sc,Data Science,SQL,Node.js,Software Engineer,Certified Web Developer,8.0
+838,B.Tech,Data Science,SQL,Django,Software Engineer,TensorFlow Certified,6.0
+839,bsc,Unknown,JavaScript,React,AI Engineer,Google Cloud Certified,6.0
+840,B.Tech,Information Technology,HTML,React,Backend Developer,Google Cloud Certified,5.0
+841,M.Tech,Information Technology,java,Unknown,Backend Developer,AWS Certified,2.0
+842,bsc,Data Science,SQL,flask,Backend Developer,Spring Certified,7.0
+843,B.Tech,Data Science,java,Node.js,Full Stack Developer,Google Cloud Certified,11.0
+844,msc,Data scienc,java,Flask,Data Scientist,AWS Certified,6.0
+845,B.Sc,Software Engineering,Java,React,Data Scientist,Certified Web Developer,5.0
+846,B.Tech,Computer Science,HTML,Django,Data Scientist,Microsoft Azure Certified,2.0
+847,Bsc,Computer Science,Python,flask,AI Engineer,Certified Web Developer,5.0
+848,Unknown,Information Technology,Unknown,Node.js,Unknown,Certified Web Developer,5.0
+849,M.Sc,Artificial Intelligence,C++,Unknown,Software Engineer,Certified Web Developer,7.0
+850,msc,Data scienc,Unknown,Unknown,AI Engineer,Spring Certified,5.0
+851,M.Sc,Data Science,SQL,Deep Learning,Unknown,Microsoft Azure Certified,5.0
+852,Bsc,Data Science,python,Node.js,Backend Developer,AWS Certified,1.0
+853,Bsc,Software Engineering,python,Django,Unknown,Spring Certified,6.0
+854,M.Tech,Data scienc,JavaScript,react,Frontend Developer,AWS Certified,6.0
+855,B.Sc,Data scienc,HTML,Deep Learning,AI Engineer,Certified Web Developer,4.0
+856,msc,Software Engineering,SQL,Node.js,Software Engineer,Microsoft Azure Certified,5.0
+857,M.Tech,Software Engineering,Python,Machine Learning,Unknown,TensorFlow Certified,0.0
+858,bsc,Data scienc,Python,Flask,Backend Developer,Spring Certified,0.0
+859,Unknown,Data Science,java,Flask,Unknown,TensorFlow Certified,6.0
+860,bsc,Comp Science,JavaScript,flask,AI Engineer,Google Cloud Certified,4.0
+861,msc,Software Engineering,Unknown,Unknown,Data Scientist,TensorFlow Certified,2.0
+862,Unknown,Artificial Intelligence,C++,Machine Learning,Software Engineer,Microsoft Azure Certified,4.0
+863,M.Tech,Data Science,JavaScript,flask,Data Scientist,Unknown,7.0
+864,msc,Software Engineering,java,flask,Frontend Developer,Spring Certified,3.0
+865,bsc,Comp Science,java,Unknown,Backend Developer,Unknown,1.0
+866,B.Sc,Artificial Intelligence,Python,Deep Learning,Full Stack Developer,Spring Certified,1.0
+867,Unknown,Computer Science,java,Node.js,Data Scientist,Spring Certified,5.0
+868,Unknown,Artificial Intelligence,java,Django,Frontend Developer,Microsoft Azure Certified,3.0
+869,Bsc,Computer Science,Java,React,Backend Developer,Spring Certified,6.0
+870,M.Tech,Artificial Intelligence,Unknown,Unknown,Software Engineer,Microsoft Azure Certified,3.0
+871,Bsc,Comp Science,Unknown,Deep Learning,Full Stack Developer,Microsoft Azure Certified,8.0
+872,Msc,Comp Science,Unknown,Node.js,Data Scientist,Microsoft Azure Certified,7.0
+873,Msc,Comp Science,Python,Django,Full Stack Developer,Google Cloud Certified,5.0
+874,msc,Artificial Intelligence,Python,react,Backend Developer,TensorFlow Certified,2.0
+875,M.Tech,Information Technology,java,Node.js,Frontend Developer,Microsoft Azure Certified,1.0
+876,msc,Data Science,Python,Deep Learning,Data Scientist,Microsoft Azure Certified,8.0
+877,bsc,Computer Science,HTML,Flask,Data Scientist,TensorFlow Certified,0.0
+878,Bsc,Software Engineering,Python,react,Software Engineer,Certified Web Developer,3.0
+879,Msc,Data Science,JavaScript,Django,Data Scientist,AWS Certified,4.0
+880,Unknown,Comp Science,C++,Django,Software Engineer,Spring Certified,1.0
+881,Unknown,Unknown,Java,Node.js,Full Stack Developer,Certified Web Developer,7.0
+882,Msc,Artificial Intelligence,JavaScript,react,Frontend Developer,TensorFlow Certified,0.0
+883,M.Sc,Computer Science,java,React,Data Scientist,Google Cloud Certified,4.0
+884,msc,Software Engineering,python,Django,Software Engineer,Unknown,0.0
+885,bsc,Information Technology,java,Unknown,Full Stack Developer,Google Cloud Certified,3.0
+886,msc,Data scienc,SQL,react,Backend Developer,Unknown,7.0
+887,Bsc,Data scienc,JavaScript,react,Data Scientist,Unknown,0.0
+888,B.Sc,Artificial Intelligence,JavaScript,React,Backend Developer,Google Cloud Certified,7.0
+889,msc,Artificial Intelligence,C++,Node.js,Full Stack Developer,Microsoft Azure Certified,2.0
+890,bsc,Data Science,Java,Flask,Full Stack Developer,Microsoft Azure Certified,6.0
+891,Bsc,Computer Science,Python,Flask,Unknown,Google Cloud Certified,4.0
+892,Bsc,Data Science,C++,Unknown,AI Engineer,Spring Certified,1.0
+893,Bsc,Comp Science,python,Django,Frontend Developer,Unknown,11.0
+894,msc,Data scienc,python,flask,AI Engineer,Google Cloud Certified,4.0
+895,M.Sc,Information Technology,Python,React,Backend Developer,Unknown,9.0
+896,M.Sc,Computer Science,java,flask,Software Engineer,Spring Certified,4.0
+897,Unknown,Unknown,Python,react,Full Stack Developer,Certified Web Developer,5.0
+898,bsc,Comp Science,java,Unknown,Backend Developer,Certified Web Developer,11.0
+899,M.Sc,Computer Science,Java,flask,Backend Developer,TensorFlow Certified,6.0
+900,Bsc,Software Engineering,HTML,Unknown,Frontend Developer,Unknown,5.0
+901,B.Tech,Software Engineering,Python,React,Software Engineer,Google Cloud Certified,6.0
+902,B.Tech,Unknown,python,Node.js,Data Scientist,TensorFlow Certified,1.0
+903,M.Tech,Information Technology,JavaScript,Node.js,Backend Developer,Certified Web Developer,4.0
+904,Bsc,Computer Science,Unknown,React,Data Scientist,Microsoft Azure Certified,6.0
+905,M.Sc,Software Engineering,java,flask,AI Engineer,Spring Certified,5.0
+906,M.Sc,Information Technology,C++,Deep Learning,Frontend Developer,Microsoft Azure Certified,7.0
+907,Msc,Information Technology,Java,Unknown,Frontend Developer,Spring Certified,3.0
+908,msc,Data Science,Python,Node.js,Data Scientist,Google Cloud Certified,5.0
+909,Msc,Data scienc,python,Deep Learning,Data Scientist,Spring Certified,8.0
+910,B.Sc,Artificial Intelligence,HTML,Django,Frontend Developer,Unknown,4.0
+911,M.Tech,Data scienc,Python,React,Backend Developer,Google Cloud Certified,4.0
+912,msc,Information Technology,SQL,React,Data Scientist,Spring Certified,9.0
+913,M.Tech,Data Science,C++,Deep Learning,AI Engineer,Certified Web Developer,5.0
+914,M.Tech,Information Technology,C++,flask,Full Stack Developer,Microsoft Azure Certified,5.0
+915,B.Tech,Data Science,java,React,Software Engineer,AWS Certified,3.0
+916,Msc,Computer Science,JavaScript,react,Frontend Developer,Spring Certified,2.0
+917,Bsc,Comp Science,Python,Unknown,Software Engineer,Certified Web Developer,4.0
+918,M.Sc,Computer Science,Java,Flask,Frontend Developer,Unknown,8.0
+919,B.Tech,Data Science,SQL,Deep Learning,Backend Developer,AWS Certified,4.0
+920,Unknown,Artificial Intelligence,java,Unknown,Data Scientist,AWS Certified,3.0
+921,Msc,Unknown,HTML,Deep Learning,Frontend Developer,Microsoft Azure Certified,0.0
+922,msc,Comp Science,HTML,flask,Data Scientist,Microsoft Azure Certified,7.0
+923,M.Sc,Artificial Intelligence,JavaScript,Flask,Data Scientist,Unknown,5.0
+924,msc,Software Engineering,python,Machine Learning,AI Engineer,Certified Web Developer,8.0
+925,bsc,Comp Science,C++,React,Unknown,Spring Certified,1.0
+926,Unknown,Data Science,python,flask,Backend Developer,TensorFlow Certified,8.0
+927,B.Sc,Data Science,Unknown,Deep Learning,Data Scientist,Unknown,3.0
+928,M.Tech,Computer Science,Java,Unknown,Software Engineer,Microsoft Azure Certified,6.0
+929,Msc,Information Technology,SQL,Django,Backend Developer,Certified Web Developer,6.0
+930,M.Tech,Software Engineering,Unknown,React,Frontend Developer,Google Cloud Certified,3.0
+931,M.Tech,Data Science,SQL,Django,Full Stack Developer,Google Cloud Certified,2.0
+932,msc,Information Technology,SQL,Unknown,Unknown,Unknown,8.0
+933,bsc,Information Technology,Unknown,Node.js,AI Engineer,Unknown,8.0
+934,B.Sc,Comp Science,JavaScript,Django,Backend Developer,Google Cloud Certified,11.0
+935,M.Tech,Software Engineering,HTML,React,Backend Developer,AWS Certified,8.0
+936,Unknown,Artificial Intelligence,HTML,react,AI Engineer,Spring Certified,6.0
+937,Bsc,Unknown,HTML,react,Unknown,AWS Certified,2.0
+938,B.Sc,Data scienc,python,Flask,Unknown,Certified Web Developer,9.0
+939,Unknown,Software Engineering,HTML,Flask,Backend Developer,Unknown,4.0
+940,B.Tech,Software Engineering,SQL,react,Software Engineer,Unknown,5.0
+941,M.Tech,Data Science,HTML,flask,Full Stack Developer,Google Cloud Certified,4.0
+942,B.Tech,Computer Science,Python,Node.js,Software Engineer,AWS Certified,5.0
+943,bsc,Unknown,Unknown,Deep Learning,Backend Developer,Certified Web Developer,5.0
+944,M.Sc,Comp Science,HTML,react,Backend Developer,Spring Certified,5.0
+945,Unknown,Data Science,SQL,react,Data Scientist,Certified Web Developer,6.0
+946,Unknown,Comp Science,java,Unknown,Backend Developer,Unknown,3.0
+947,Msc,Data scienc,Java,Unknown,Software Engineer,TensorFlow Certified,7.0
+948,B.Sc,Unknown,JavaScript,React,Full Stack Developer,TensorFlow Certified,4.0
+949,bsc,Data Science,Unknown,flask,Software Engineer,Google Cloud Certified,5.0
+950,msc,Comp Science,python,Unknown,AI Engineer,Unknown,8.0
+951,bsc,Information Technology,python,Flask,AI Engineer,AWS Certified,2.0
+952,B.Sc,Software Engineering,Python,Flask,Software Engineer,TensorFlow Certified,3.0
+953,B.Tech,Data Science,python,Machine Learning,Full Stack Developer,Spring Certified,3.0
+954,Msc,Data scienc,SQL,Deep Learning,Software Engineer,Spring Certified,4.0
+955,M.Tech,Information Technology,Java,Unknown,AI Engineer,TensorFlow Certified,6.0
+956,M.Tech,Comp Science,SQL,Deep Learning,Data Scientist,Google Cloud Certified,5.0
+957,B.Tech,Data Science,Java,Flask,Frontend Developer,Certified Web Developer,6.0
+958,M.Sc,Computer Science,Unknown,Django,Data Scientist,Spring Certified,9.0
+959,M.Sc,Unknown,java,Flask,Full Stack Developer,Certified Web Developer,9.0
+960,M.Sc,Comp Science,Java,Deep Learning,Backend Developer,TensorFlow Certified,4.0
+961,Msc,Unknown,JavaScript,Machine Learning,Backend Developer,AWS Certified,3.0
+962,Msc,Data Science,Java,Unknown,Full Stack Developer,Spring Certified,2.0
+963,Msc,Computer Science,C++,Deep Learning,Data Scientist,Certified Web Developer,6.0
+964,B.Tech,Comp Science,HTML,react,AI Engineer,AWS Certified,5.0
+965,B.Tech,Artificial Intelligence,SQL,Machine Learning,Unknown,AWS Certified,6.0
+966,M.Sc,Information Technology,JavaScript,Django,Frontend Developer,Spring Certified,2.0
+967,B.Tech,Artificial Intelligence,Java,Node.js,Data Scientist,Spring Certified,2.0
+968,Msc,Artificial Intelligence,C++,Unknown,Full Stack Developer,Spring Certified,7.0
+969,M.Tech,Unknown,python,Node.js,Data Scientist,TensorFlow Certified,5.0
+970,M.Sc,Data Science,python,Unknown,Full Stack Developer,Unknown,11.0
+971,Unknown,Information Technology,SQL,Unknown,Unknown,Spring Certified,8.0
+972,B.Tech,Software Engineering,JavaScript,Unknown,Full Stack Developer,Certified Web Developer,5.0
+973,M.Sc,Data scienc,python,react,Backend Developer,Certified Web Developer,1.0
+974,Msc,Artificial Intelligence,HTML,Unknown,Frontend Developer,Certified Web Developer,7.0
+975,B.Tech,Comp Science,HTML,Flask,Software Engineer,AWS Certified,0.0
+976,msc,Comp Science,SQL,Unknown,Frontend Developer,TensorFlow Certified,7.0
+977,M.Tech,Unknown,SQL,Deep Learning,Unknown,TensorFlow Certified,9.0
+978,Unknown,Data scienc,Java,Deep Learning,Backend Developer,TensorFlow Certified,1.0
+979,B.Sc,Information Technology,HTML,Flask,AI Engineer,TensorFlow Certified,7.0
+980,msc,Computer Science,HTML,Deep Learning,Frontend Developer,Microsoft Azure Certified,2.0
+981,msc,Computer Science,JavaScript,Node.js,Backend Developer,Microsoft Azure Certified,7.0
+982,bsc,Comp Science,JavaScript,React,Unknown,Unknown,8.0
+983,bsc,Software Engineering,java,react,Backend Developer,Unknown,5.0
+984,Msc,Artificial Intelligence,HTML,Unknown,Full Stack Developer,Google Cloud Certified,8.0
+985,B.Sc,Data Science,JavaScript,Unknown,Unknown,Unknown,4.0
+986,bsc,Data scienc,Python,Deep Learning,Software Engineer,AWS Certified,3.0
+987,msc,Artificial Intelligence,python,Flask,Full Stack Developer,AWS Certified,6.0
+988,B.Sc,Artificial Intelligence,Java,react,Data Scientist,Google Cloud Certified,3.0
+989,B.Sc,Data Science,Java,Django,AI Engineer,Google Cloud Certified,6.0
+990,bsc,Information Technology,java,Node.js,Data Scientist,AWS Certified,1.0
+991,Unknown,Comp Science,java,react,Full Stack Developer,TensorFlow Certified,6.0
+992,Msc,Data Science,HTML,Deep Learning,Data Scientist,Spring Certified,3.0
+993,B.Tech,Information Technology,Unknown,Machine Learning,Software Engineer,Unknown,5.0
+994,msc,Data Science,python,Node.js,Full Stack Developer,Google Cloud Certified,2.0
+995,msc,Data scienc,python,Node.js,Frontend Developer,Spring Certified,7.0
+996,B.Tech,Information Technology,Python,Unknown,AI Engineer,TensorFlow Certified,3.0
+997,M.Tech,Data scienc,HTML,flask,Backend Developer,Spring Certified,7.0
+998,M.Tech,Unknown,Unknown,Machine Learning,Unknown,Microsoft Azure Certified,2.0
+999,B.Sc,Comp Science,Java,Unknown,Backend Developer,TensorFlow Certified,5.0
+1000,bsc,Software Engineering,python,Deep Learning,Data Scientist,AWS Certified,7.0
